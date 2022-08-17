@@ -1,3 +1,4 @@
 # Basic-HTTP-Socket-Server
 
-![](templates\client-server-opt.png)
+![server](templates\client-server-opt.png) 
+
