@@ -1,4 +1,4 @@
 # Basic-HTTP-Socket-Server
 
-![server](templates\client-server-opt.png) 
+![server](https://iximiuz.com/writing-web-server-in-python-sockets/client-server-opt.png)
 
